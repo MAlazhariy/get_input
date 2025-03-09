@@ -30,6 +30,8 @@ print('You entered: $number');
 ```
 ### 4. That's it 🎉
 
+----
+
 ## Usage
 
 ```dart
