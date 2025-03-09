@@ -9,7 +9,7 @@ A library that provides ready functions to get inputs from the user such as int,
 Add the package to your `pubspec.yaml` under `dependencies:`:
 
 ```yaml
-internet_state_manager:
+get_input:
   git:
     url: https://github.com/MAlazhariy/get_input.git
     ref: v1.0.0
